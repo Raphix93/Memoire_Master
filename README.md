@@ -1,12 +1,12 @@
 # Mémoire de master
 
-Le présent dépot traite de mon travail de Master et conserve les documents de travail utilisé pour sa rédaction. Le dépot sera également compléter par un répository institutionnel sur Zenodo.
+Le présent dépôt traite de mon travail de Master et conserve les documents de travail utilisé pour sa rédaction. Le dépôt sera également complété par un repository institutionnel sur Zenodo.
 
 ##	Problématique et questions de recherche
 
 ### Problématique principale
 
-•	Quel est l’impact du numérique dans la diffusion archivistique en suisse romande ?
+•	Quel est l’impact du numérique dans la diffusion archivistique en Suisse romande ?
 
 ### Problématique secondaire
 
