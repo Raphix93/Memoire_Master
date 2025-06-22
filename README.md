@@ -14,7 +14,6 @@ Le présent dépôt traite de mon travail de Master et conserve les documents de
 
 •	Quels sont les apports du domaine et des formations en humanités numériques pour ces évolutions technologiques aux domaines du patrimoine ?
 
-•	Ces évolutions relatives à la diffusion archivistique constituent-elles un nouveau paradigme ?
 
 ## Structure des données de ma recherche
 
